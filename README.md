@@ -11,7 +11,7 @@ Key Features
 
 •	Actionable Insights: Provided actionable insights to HR teams through visualizations, leading to a 30% increase in decision-making efficiency.
 
-Technologies Used
+Technologies Utilized
 
 •	Power BI: Used for developing the interactive dashboard.
 
